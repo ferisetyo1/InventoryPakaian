@@ -1,0 +1,66 @@
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\bin\Debug\ProjectUTS.exe.config
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\bin\Debug\ProjectUTS.exe
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\bin\Debug\ProjectUTS.pdb
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.csprojAssemblyReference.cache
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.FormLogin.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.Properties.Resources.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.csproj.GenerateResource.cache
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.csproj.CoreCompileInputs.cache
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.exe
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.pdb
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\bin\Debug\MySql.Data.dll
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\bin\Debug\Google.Protobuf.dll
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\bin\Debug\MySql.Data.xml
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.csproj.CopyComplete
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.ListBarang.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.editBarang.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.InputJenisBarang.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.InputMitra.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.InputSupplier.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.InputUser.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.MainAppAdmin.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.MainAppUser.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.InputBarangBaru.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.InputBarangKeluar.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.InputBarangMasuk.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.ListUser.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.ListMitra.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.ListSupplier.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.KonfrmBarangKeluar.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.KonfrmBarangMasuk.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.ReqBarangKeluar.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.ReqBarangMasuk.resources
+C:\Users\Feri Setyo Efendi\source\repos\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.Laporan.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\bin\Debug\ProjectUTS.exe.config
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\bin\Debug\ProjectUTS.exe
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\bin\Debug\ProjectUTS.pdb
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\bin\Debug\MySql.Data.xml
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.editBarang.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.InputBarangBaru.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.FormLogin.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.InputBarangKeluar.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.InputBarangMasuk.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.InputJenisBarang.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.InputMitra.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.InputSupplier.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.InputUser.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.KonfrmBarangKeluar.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.KonfrmBarangMasuk.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.Laporan.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.ListBarang.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.ListMitra.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.ListSupplier.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.ListUser.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.MainAppAdmin.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.MainAppUser.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.Properties.Resources.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.ReqBarangKeluar.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.ReqBarangMasuk.resources
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.csproj.CopyComplete
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.exe
+C:\Users\USER\Desktop\PPK\ProjectUTS\ProjectUTS\obj\Debug\ProjectUTS.pdb
